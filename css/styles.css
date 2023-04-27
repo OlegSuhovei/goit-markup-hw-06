@@ -1,0 +1,14 @@
+
+:root 
+--
+
+
+body {
+    color: aqua;
+}
+
+/* убирает подчеркивание ссылок */
+/* a {
+  text-decoration: none;
+  color:currentColor;
+} */
